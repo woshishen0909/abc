@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/woshishen0909/CF-DNS-Clone/refs/heads/main/030101-bestcf.txt
 https://raw.githubusercontent.com/woshishen0909/CF-DNS-Clone/refs/heads/main/CloudFlareYes.txt
+https://raw.githubusercontent.com/woshishen0909/CF-DNS-Clone/refs/heads/main/wetest-cloudflare-v4.txt
 https://raw.githubusercontent.com/woshishen0909/CF-DNS-Clone/refs/heads/main/api.urlce.com.txt
